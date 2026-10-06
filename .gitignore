@@ -1,0 +1,10 @@
+# Generated corpus and analysis results
+Mistral4/transcripts.csv
+Mistral4/transcripts_responses.csv
+Mistral4/*_job_types_*.csv
+Mistral4/*_experience_aspects_*.csv
+Mistral4/*_preparation_report.csv
+Mistral4/data/results/*.csv
+
+# Local model environment
+Mistral4/.venv-mistral4/
